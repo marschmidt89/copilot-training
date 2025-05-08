@@ -1,0 +1,7 @@
+[
+  "python-hello-world/src/test_calculator.py::test_absolute",
+  "python-hello-world/src/test_calculator.py::test_add",
+  "python-hello-world/src/test_calculator.py::test_divide",
+  "python-hello-world/src/test_calculator.py::test_multiply",
+  "python-hello-world/src/test_calculator.py::test_subtract"
+]
